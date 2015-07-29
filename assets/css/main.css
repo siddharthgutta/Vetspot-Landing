@@ -2313,6 +2313,16 @@
 			color: #ffffff !important;
 		}
 
+		button.learnMore,
+		.button.learnMore {
+            border: #ffffff;	
+			background-image: -moz-linear-gradient( 90deg, rgb(25,180,84) 0%, rgb(94,223,68) 100%);
+			background-image: -webkit-linear-gradient( 90deg, rgb(25,180,84) 0%, rgb(94,223,68) 100%);
+			background-image: -ms-linear-gradient( 90deg, rgb(25,180,84) 0%, rgb(94,223,68) 100%);
+			box-shadow: #ffffff !important;
+			color: #ffffff !important;
+		}
+
 			input[type="submit"].special:hover,
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
